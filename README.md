@@ -1,7 +1,7 @@
 <h1 align ='center'> Hi there 👋 , I'm Osanda</h1>
 
 <p align='center'>
-I am a final year undergraduate from the Sri Lanka Institute of Information Technology. As a creative, Focus and Planning, and determined individual I am looking for a challenging career opportunity to develop my professional skills and knowledge.
+As a self-motivated software engineer, I am seeking a challenging career opportunity in the IT sector where I can develop my professional skills and expand my knowledge of new and emerging technologies.
 </p>
 
 <p align='center'>
